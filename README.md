@@ -5,5 +5,4 @@ Adivinar que dibujito es.
 
 
 
-# https://octaviovillegas.github.io/TP-Sala-de-Juegos-ANGULAR-/.
-
+# https://sol993.github.io/TP-Sala-de-Juegos-ANGULAR-/
